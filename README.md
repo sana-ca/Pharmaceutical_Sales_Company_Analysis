@@ -1,4 +1,4 @@
-# Pharmaceutical_Sales_Company_Analysis
+# Pharmaceutical Sales Company Analysis
 
 
 This data analysis project provides a comprehensive examination of raw sales data from `Datamatrix-ml Pharmaceuticals`, a leading global pharmaceutical manufacturer. The goal is to extract meaningful insights and present them through a series of interactive Power BI dashboards. The analysis covers overall company performance, distributor and customer metrics, and sales team effectiveness.
