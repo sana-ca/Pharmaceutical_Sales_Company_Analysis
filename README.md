@@ -59,6 +59,8 @@ Three distinct dashboards were created to cater to the needs of different stakeh
 
 This dashboard provides a high-level, at-a-glance view of the overall business performance.
 
+![image](https://github.com/user-attachments/assets/3febf60b-6dc8-465f-b54c-f0bd1d351127)
+
 
 
 **Key Insights:**
@@ -75,7 +77,8 @@ This dashboard provides a high-level, at-a-glance view of the overall business p
 
 This report offers a more granular view, focusing on the performance of distribution partners and key customers.
 
-\<img src="./image\_619e45.png"/\>
+![image](https://github.com/user-attachments/assets/0751ca3b-569b-4355-bab0-a44d51216241)
+
 
 **Key Insights:**
 
@@ -90,7 +93,8 @@ This report offers a more granular view, focusing on the performance of distribu
 
 This dashboard is designed for the Head of Sales to monitor and analyze the performance of the sales teams and individual representatives.
 
-\<img src="./image\_619e25.png"/\>
+![image](https://github.com/user-attachments/assets/5cac7e41-8409-4c1d-954d-008babeb0bc5)
+
 
 **Key Insights:**
 
