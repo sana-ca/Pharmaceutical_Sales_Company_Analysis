@@ -22,9 +22,9 @@ The primary objective is to analyze the company's sales data for the German and 
 
 |Requirement ID|Audience|Requirement Description|
 |:---|:---|:---|
-|DM-DA01-REQ-1|Executive Committee|Provide a high-level overview of the company’s sales performance by year, month, customer city, and channel/sub-channel. Highlight top-performing drug classes, specific drugs, and customer cities.|
-|DM-DA01-REQ-2|Sales Manager/Sales Rep|Deliver a detailed breakdown of sales by distributor and product, identify top customers and cities, and show sales splits by various channels.|
-|DM-DA01-REQ-3|Head of Sales|Create a comprehensive report on sales team performance, detailing sales by team for each product and product class. Identify top-performing managers and reps, and allow for data filtering by year and month.|
+|REQ-1|Executive Committee|Provide a high-level overview of the company’s sales performance by year, month, customer city, and channel/sub-channel. Highlight top-performing drug classes, specific drugs, and customer cities.|
+|REQ-2|Sales Manager/Sales Rep|Deliver a detailed breakdown of sales by distributor and product, identify top customers and cities, and show sales splits by various channels.|
+|REQ-3|Head of Sales|Create a comprehensive report on sales team performance, detailing sales by team for each product and product class. Identify top-performing managers and reps, and allow for data filtering by year and month.|
 
 ## Tools Used
 
